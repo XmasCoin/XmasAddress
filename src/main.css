@@ -27,14 +27,14 @@ body { font-family: Arial; }
 #keyarea .public { width: 30%; display: table-cell; }
 #singlearea { font-size: 90%; }
 #singlesecret { position: relative; top: -130px; float: right; right: 200px; color: red; font-weight: bolder; font-size: 200%;  }
-#singleshare { position: relative; top: -110px; float: left; left: 160px; color: #A7A9AC; font-weight: bolder; font-size: 200%;  }
+#singleshare { position: relative; top: -110px; float: left; left: 160px; color: green; font-weight: bolder; font-size: 200%;  }
 #singlesafety { text-align: left; padding: 5px; border-top: 2px solid #A7A9AC; top: -30px; position: relative; }
 
 #main { position: relative; text-align: center; margin: 0px auto; width: 1005px; }
 #logo { width: 339px; height: 100px; }
 #generate { font-family: Courier New; height: 158px; text-align: left; position: relative; padding: 5px; border: 2px solid #A7A9AC; }
 #generate span { padding: 5px 5px 0 5px; }
-		
+
 #paperarea { min-height: 120px; display: none; }
 #paperarea .keyarea { border: 2px solid #A7A9AC; border-top: 0; }
 #paperarea .keyarea.art { display: block; height: auto; border: 0; font-family: Ubuntu, Arial; padding: 0; margin: 0; }
